@@ -13,7 +13,7 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/MaximDiaz0203/PANDA-GUARD?color=dark-green) ![Issues](https://img.shields.io/github/issues/MaximDiaz0203/PANDA-GUARD) ![License](https://img.shields.io/github/license/MaximDiaz0203/PANDA-GUARD) 
+![Contributors](https://img.shields.io/github/contributors/MaximDiaz0203/PANDA-GUARD?color=dark-green) ![Issues](https://img.shields.io/github/issues/MaximDiaz0203/PANDA-GUARD) 
 
 ## Table Of Contents
 
